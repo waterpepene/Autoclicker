@@ -123,3 +123,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+tests.py
+icon.png
+b64.py
